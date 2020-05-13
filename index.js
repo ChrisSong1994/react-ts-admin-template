@@ -1,0 +1,3 @@
+function ass() {
+    return "ddddd";
+}

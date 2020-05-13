@@ -1,0 +1,9 @@
+# logs 
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+
+# dir
+dist
+node_modules
