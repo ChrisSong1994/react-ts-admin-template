@@ -1,3 +1,4 @@
+/* eslint-disable global-require, import/no-extraneous-dependencies, @typescript-eslint/no-var-requires */
 module.exports = {
     plugins: [
       // 修复一些 flex 的 bug
